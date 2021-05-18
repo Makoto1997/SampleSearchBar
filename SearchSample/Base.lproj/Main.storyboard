@@ -26,6 +26,9 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="Wwg-jW-N0H"/>
+                    <connections>
+                        <outlet property="searchBar" destination="MZd-Sd-afH" id="lta-81-JIi"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
