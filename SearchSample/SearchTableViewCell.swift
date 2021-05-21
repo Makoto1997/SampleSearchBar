@@ -7,7 +7,7 @@
 
 import UIKit
 
-class SearchTableViewCell: UITableViewCell {
+final class SearchTableViewCell: UITableViewCell {
 
     @IBOutlet weak var label: UILabel!
     
