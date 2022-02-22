@@ -1,1 +1,1 @@
-# SearchSample
+UISearchBarのサンプルです。
